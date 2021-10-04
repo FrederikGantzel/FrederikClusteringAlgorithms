@@ -2,8 +2,8 @@
 #'
 #' Computes the euclidean distance between two points with equal dimentions
 #'
-#' @param point1 the first point, or set of points (numeric value / numeric vector)
-#' @param point2 the first point, or set of points (numeric value / numeric vector)
+#' @param point1 the first point (numeric value / numeric vector)
+#' @param point2 the first point (numeric value / numeric vector)
 #' @return the euclidean distance between the points (numeric value)
 #' @export
 #' @examples

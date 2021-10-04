@@ -18,5 +18,7 @@ the vector resulting from adding the two input vectors together. Numeric with si
 Adds two vectors together
 }
 \examples{
-Frederik_ATV(c(1.5,2.5,3.5), c(4.5, 5.5, 6.5))
+first_vector= c(1.5,2.5,3.5)
+second_vector = c(4.5, 5.5, 6.5)
+Frederik_ATV(first_vector, second_vector)
 }

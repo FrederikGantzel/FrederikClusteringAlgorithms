@@ -18,5 +18,6 @@ a vector of length [observations] showing clusterings for all datapoints in the 
 Computes clusterings for a dataset via the hierarchical clustering method
 }
 \examples{
-Frederik_hclust(as.matrix(iris[, -5]), 3)
+data_set = as.matrix(iris[, -5])
+Frederik_hclust(data_set, 3)
 }

@@ -7,9 +7,9 @@
 euclidDist(point1, point2)
 }
 \arguments{
-\item{point1}{the first point, or set of points (numeric value / numeric vector)}
+\item{point1}{the first point (numeric value / numeric vector)}
 
-\item{point2}{the first point, or set of points (numeric value / numeric vector)}
+\item{point2}{the first point (numeric value / numeric vector)}
 }
 \value{
 the euclidean distance between the points (numeric value)

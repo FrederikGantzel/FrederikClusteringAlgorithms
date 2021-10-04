@@ -7,7 +7,8 @@
 #' @return a vector of length [observations] showing clusterings for all datapoints in the input data matrix
 #' @export
 #' @examples
-#' Frederik_hclust(as.matrix(iris[, -5]), 3)
+#' data_set = as.matrix(iris[, -5])
+#' Frederik_hclust(data_set, 3)
 
 Frederik_hclust = function(matrix_of_data, target_nr_of_clusters) {
   data_size = nrow(matrix_of_data)
