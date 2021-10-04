@@ -1,0 +1,10 @@
+Package: FrederikClusteringAlgorithms
+Type: Package
+Title: Frederik Clustering Algorithms
+Version: 2021.10.03
+Author: Frederik Gantzel
+Maintainer: Frederik Gantzel <fvg6@nau.edu>
+Description: Clustering algorithms for CS599 "Unsupervised Learning" R package project 1, NAU, Fall semester 2021
+License: GPL-3
+RoxygenNote: 7.1.2
+LinkingTo: Rcpp
