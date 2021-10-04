@@ -1,15 +1,16 @@
 # FrederikClusteringAlgorithms
 Clustering algorithms for CS599 "Unsipervised Learning" R package project 1, NAU, Fall semester 2021
 
-#Installation
+## Installation
 run the following R commands:
 if(!requireNamespace("remotes"))install.packages("remotes")
 remotes::install_github("FrederikGantzel/FrederikClusteringAlgorithms")
 
-#Usage
+## Usage
 Provides three functions to analyze data.
 
 Frederik_hclust is a Hierarchical clustering algorithm that takes a numeric data matrix as input, and outputs a vector showing clusterings for all observations in the input data matrix. Some example code:
+
 data_set = as.matrix(iris[, -5])
 Frederik_hclust(data_set, 3)
 
