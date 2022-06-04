@@ -1,5 +1,5 @@
 # FrederikClusteringAlgorithms
-Clustering algorithms for CS599 "Unsipervised Learning" R package project 1, NAU, Fall semester 2021
+Clustering algorithms for CS599 "Unsupervised Learning" R package project 1, NAU, Fall semester 2021
 
 ## Installation
 run the following R commands:
